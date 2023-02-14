@@ -8,7 +8,7 @@ import (
 	"crypto/tls"
 	"errors"
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"net/http"
 	"net/url"
 	"os"

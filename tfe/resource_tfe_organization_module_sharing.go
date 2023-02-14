@@ -5,7 +5,7 @@ package tfe
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"strings"
 
 	tfe "github.com/hashicorp/go-tfe"
