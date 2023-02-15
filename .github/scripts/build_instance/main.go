@@ -7,7 +7,7 @@ import (
 	"context"
 	"flag"
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"os"
 	"os/signal"
 	"time"

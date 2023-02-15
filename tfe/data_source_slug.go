@@ -8,7 +8,7 @@ import (
 	"crypto/sha256"
 	"encoding/hex"
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"os"
 
 	slug "github.com/hashicorp/go-slug"
